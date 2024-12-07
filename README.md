@@ -4,7 +4,7 @@ This is a PyTorch project to transfer the style of an input image to that of a g
 
 <img width="757" alt="image" src="https://github.com/user-attachments/assets/172f5831-8fb6-4391-9a90-04ae3c81db77">
 
-The approach and methodologies of these processes are detailed in the project report $\LaTeX$ file.
+The approach and methodologies of these processes are detailed in the project report `RAG_Inspired_WebToons_Style_Transfer.pdf`.
 
 ## Requirements
 
